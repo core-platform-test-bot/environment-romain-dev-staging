@@ -15,7 +15,7 @@ dependencies:
   version: 0.0.2
 - name: node
   repository: http://jenkins-x-chartmuseum:8080
-  version: 0.0.20
+  version: 0.0.21
 - name: python-http
   repository: http://jenkins-x-chartmuseum:8080
   version: 0.0.3
